@@ -1,5 +1,4 @@
 # https://www.codewars.com/kata/55171d87236c880cea0004c6/train/python
-# https://github.com/QuantumCalculusUser/python-projects
 from random import shuffle
 
 

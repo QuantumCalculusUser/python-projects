@@ -1,5 +1,4 @@
 # https://www.codewars.com/kata/5518a860a73e708c0a000027/train/python
-# https://github.com/QuantumCalculusUser/python-projects
 def last_digit(lst):
     if not lst:
         return 1
